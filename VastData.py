@@ -22,7 +22,7 @@ class VastData:
         self.measure_names = []
         self.measure_units = []
         
-        self.sensor_location = ["Achara", "Boonsri", "Busarakhan", "Chai", "Decha", "Kannika", "Kohsoom", "Sakda", "Somchair", "Tansanee-"]
+        self.sensor_location = ["Achara", "Boonsri", "Busarakhan", "Chai", "Decha", "Kannika", "Kohsoom", "Sakda", "Somchair", "Tansanee"]
         
         # Adds values from readings.csv to appropriate variables
         for row in readings_reader:
