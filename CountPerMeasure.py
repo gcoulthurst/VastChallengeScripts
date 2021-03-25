@@ -21,9 +21,10 @@ for measure in range(len(data.measure_names)):
     for loc in range(len(data.sensor_location)):
         measure_total += measure_counts[measure * 10 + loc]
     
-    counts_file.write("{measure},{total},{a},{b},{bu},{c},{d},{k},{ko},{s},{so},{t}\n".format(
+    counts_file.write("{q}{measure}{q},{total},{a},{b},{bu},{c},{d},{k},{ko},{s},{so},{t}\n".format(
             measure=data.measure_names[measure],total=measure_total, a=measure_counts[measure*10], 
             b=measure_counts[measure*10+1], bu=measure_counts[measure*10+2], c=measure_counts[measure*10+3], 
             d=measure_counts[measure*10+4], k=measure_counts[measure*10+5], ko=measure_counts[measure*10+6], 
-            s=measure_counts[measure*10+7], so=measure_counts[measure*10+8], t=measure_counts[measure*10+9]))
+            s=measure_counts[measure*10+7], so=measure_counts[measure*10+8], t=measure_counts[measure*10+9], 
+            q=("\"" if "," in data.measure_names[measure] else "")))
 counts_file.close()

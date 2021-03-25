@@ -57,7 +57,7 @@ class VastData:
         new_file = open(file_path, "w")
         new_file.write("id,value,location,sample date,measure\n")
         for i in range(len(self.sample_id)):
-            new_file.write('{id},{value},{location},{date},{measure}\n'.format(id=self.sample_id[i], 
+            new_file.write('{id},{value},{location},{date},{q}{measure}{q}\n'.format(id=self.sample_id[i], 
                     value=self.sample_value[i], location=self.sample_location[i], date=self.sample_date[i].strftime("%d-%b-%y"), 
-                    measure=self.sample_measure[i]))
+                    measure=self.sample_measure[i], q="\"" if "," in self.sample_measure[i] else ""))
         new_file.close()
