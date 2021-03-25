@@ -1,0 +1,226 @@
+Measure,Location,StartDate,EndDate,Value,Removed
+"1,2,3-Trichlorobenzene",Boonsri,24-Jan-08,13-Dec-09,0.001,60
+"1,2,3-Trichlorobenzene",Boonsri,23-Mar-08,26-Nov-09,0.001,15
+"1,2,4-Trichlorobenzene",Boonsri,24-Jan-08,13-Dec-09,0.001,60
+"1,2,4-Trichlorobenzene",Boonsri,23-Feb-08,26-Nov-09,0.001,16
+Acenaphthene,Boonsri,22-Aug-08,13-Dec-09,0.003,44
+Acenaphthene,Boonsri,23-Feb-08,26-Nov-09,0.003,16
+Acenaphthylene,Boonsri,24-Jan-08,13-Dec-09,0.004,60
+Acenaphthylene,Boonsri,23-Feb-08,26-Nov-09,0.004,16
+Aldrin,Boonsri,25-Jul-08,28-Nov-08,0.025,12
+Aldrin,Boonsri,29-Jan-09,13-Dec-09,0.001,34
+alpha-Hexachlorocyclohexane,Boonsri,06-Apr-07,21-Jun-07,0.005,14
+alpha-Hexachlorocyclohexane,Boonsri,21-Jun-07,20-Dec-07,0.005,20
+alpha-Hexachlorocyclohexane,Boonsri,24-Jan-07,22-Dec-07,0.005,12
+alpha-Hexachlorocyclohexane,Boonsri,12-Apr-07,04-Aug-07,0.005,18
+alpha-Hexachlorocyclohexane,Boonsri,07-Oct-07,28-Dec-07,0.005,18
+alpha-Hexachlorocyclohexane,Boonsri,07-Jul-07,08-Dec-07,0.005,18
+alpha-Hexachlorocyclohexane,Boonsri,06-Oct-06,22-Dec-07,0.005,15
+Anionic active surfactants,Boonsri,14-Jan-05,12-Aug-05,0.025,45
+Anionic active surfactants,Boonsri,03-Oct-08,24-Oct-08,0.025,12
+Anionic active surfactants,Boonsri,11-Jan-09,23-Jun-10,0.05,55
+Anionic active surfactants,Boonsri,18-Aug-10,18-Nov-10,0.15,15
+Anionic active surfactants,Boonsri,22-Sep-09,05-Dec-09,0.025,12
+Anionic active surfactants,Boonsri,17-Jan-10,04-Sep-10,0.053,27
+Anionic active surfactants,Boonsri,09-Sep-09,05-Dec-09,0.025,14
+Anionic active surfactants,Boonsri,10-Jan-10,02-Sep-10,0.053,27
+Anionic active surfactants,Boonsri,07-Sep-09,05-Dec-09,0.025,15
+Anionic active surfactants,Boonsri,10-Jan-10,02-Sep-10,0.053,27
+Anthracene,Boonsri,26-Sep-08,13-Dec-09,0.005,41
+Anthracene,Boonsri,27-Jul-08,26-Nov-09,0.005,12
+Atrazine,Boonsri,24-May-07,20-Dec-07,0.06,28
+Atrazine,Boonsri,24-Jan-08,28-Nov-08,0.5,19
+Atrazine,Boonsri,03-May-08,09-Dec-10,0.5,32
+Atrazine,Boonsri,31-Mar-07,28-Dec-07,0.06,50
+Atrazine,Boonsri,28-Apr-08,11-Dec-10,0.5,90
+Atrazine,Boonsri,14-Apr-08,11-Dec-10,0.5,89
+Atrazine,Boonsri,11-Aug-07,08-Dec-07,0.06,15
+Atrazine,Boonsri,11-Apr-08,11-Dec-10,0.5,88
+Atrazine,Boonsri,03-May-08,09-Dec-10,0.5,32
+Benzo(a)anthracene,Boonsri,22-Aug-08,13-Dec-09,0.0035,44
+Benzo(a)pyrene,Boonsri,24-Jan-08,25-Jul-08,0.0075,16
+Benzo(a)pyrene,Boonsri,22-Aug-08,13-Dec-09,0.0075,43
+Benzo(a)pyrene,Boonsri,23-Feb-08,26-Nov-09,0.0075,16
+Benzo(b)fluoranthene,Boonsri,24-Jan-08,11-Jul-08,0.0075,11
+Benzo(b)fluoranthene,Boonsri,22-Aug-08,13-Dec-09,0.0075,43
+Benzo(b)fluoranthene,Boonsri,23-Feb-08,26-Nov-09,0.0075,16
+Benzo(k)fluoranthene,Boonsri,24-Jan-08,11-Jul-08,0.0075,11
+Benzo(k)fluoranthene,Boonsri,11-Jul-08,13-Dec-09,0.0075,48
+Benzo(k)fluoranthene,Boonsri,23-Feb-08,26-Nov-09,0.0075,16
+beta-Hexaxchlorocyclohexane,Boonsri,23-Aug-07,20-Dec-07,0.005,13
+beta-Hexaxchlorocyclohexane,Boonsri,16-Feb-07,07-Jul-07,0.005,23
+beta-Hexaxchlorocyclohexane,Boonsri,19-Jul-07,28-Dec-07,0.005,32
+beta-Hexaxchlorocyclohexane,Boonsri,11-Aug-07,13-Dec-07,0.005,14
+beta-Hexaxchlorocyclohexane,Boonsri,10-May-07,06-Sep-07,0.005,14
+Biochemical Oxygen,Boonsri,17-Jun-12,17-Nov-12,3.0,18
+Cadmium,Boonsri,20-Feb-10,11-Dec-10,0.25,11
+Cadmium,Boonsri,20-Jan-12,10-Dec-12,0.25,12
+Cadmium,Boonsri,18-Aug-11,14-Dec-11,0.3,12
+Cadmium,Boonsri,11-Jan-07,12-Apr-07,0.05,12
+Chemical Oxygen Demand (Cr),Boonsri,13-Feb-04,22-Apr-04,30.0,16
+Chemical Oxygen Demand (Cr),Boonsri,09-Sep-11,09-Dec-11,18.72,12
+Chlorides,Boonsri,23-Nov-07,18-Jan-08,27.5,13
+Chlorides,Boonsri,20-Mar-09,21-May-09,37.7,15
+Chlorides,Boonsri,16-Nov-09,18-Mar-10,35.5,18
+Chlorides,Boonsri,11-Aug-10,23-Apr-11,34.4,45
+Chlorides,Boonsri,13-Feb-09,08-May-09,37.7,12
+Chlorides,Boonsri,13-Nov-09,12-Mar-10,35.5,15
+Chlorides,Boonsri,14-Aug-10,06-Apr-11,34.4,30
+Chlorides,Boonsri,13-Feb-09,08-May-09,37.7,12
+Chlorides,Boonsri,13-Nov-09,12-Mar-10,35.5,15
+Chlorides,Boonsri,14-Aug-10,07-Apr-11,34.4,27
+Chrysene,Boonsri,24-Jan-08,13-Dec-09,0.003,60
+Chrysene,Boonsri,23-Feb-08,26-Nov-09,0.003,16
+Cyanides,Boonsri,15-Jan-09,10-Dec-09,0.0025,12
+Cyanides,Boonsri,30-May-08,28-Aug-09,0.002,17
+Cyanides,Boonsri,31-May-08,05-Dec-09,0.002,57
+Cyanides,Boonsri,17-Jan-10,04-Sep-10,0.004,27
+Cyanides,Boonsri,10-Jan-08,13-Nov-09,0.002,66
+Cyanides,Boonsri,10-Jan-10,02-Sep-10,0.004,18
+Cyanides,Boonsri,09-May-08,06-Sep-08,0.002,11
+Cyanides,Boonsri,12-Oct-08,05-Dec-09,0.002,48
+Cyanides,Boonsri,10-Jan-10,02-Sep-10,0.004,18
+Cyanides,Boonsri,15-Dec-08,19-Dec-09,0.002,13
+Dieldrin,Boonsri,06-Apr-07,20-Dec-07,0.005,35
+Dieldrin,Boonsri,18-Aug-06,08-Oct-06,0.005,14
+Dieldrin,Boonsri,31-Mar-07,28-Dec-07,0.005,49
+Dieldrin,Boonsri,15-Mar-07,13-Dec-07,0.005,29
+Dieldrin,Boonsri,12-Apr-07,06-Sep-07,0.005,16
+Endosulfan (alpha),Boonsri,23-Mar-07,19-Jul-07,0.005,23
+Endosulfan (beta),Boonsri,16-Feb-07,21-Jun-07,0.005,19
+Endrin,Boonsri,05-Jul-07,20-Dec-07,0.005,19
+Endrin,Boonsri,24-Jan-08,28-Nov-08,0.025,26
+Endrin,Boonsri,29-Jan-09,13-Dec-09,0.001,34
+Endrin,Boonsri,22-Feb-07,22-Dec-07,0.005,11
+Endrin,Boonsri,25-Nov-06,18-Jan-07,0.005,11
+Endrin,Boonsri,12-Apr-07,30-Nov-07,0.005,41
+Endrin,Boonsri,15-Mar-07,13-Dec-07,0.005,29
+Endrin,Boonsri,12-Apr-07,08-Dec-07,0.005,26
+Endrin,Boonsri,22-Feb-07,22-Dec-07,0.005,11
+Fecal streptococci ,Boonsri,12-Jun-05,14-Oct-05,0.002,12
+Fecal streptococci ,Boonsri,08-May-09,09-Sep-09,0.002,15
+Fecal streptococci ,Boonsri,12-Jun-05,14-Oct-05,0.002,12
+Fluoranthene,Boonsri,22-Aug-08,13-Dec-09,0.0045,44
+Fluoranthene,Boonsri,27-Jul-08,26-Nov-09,0.0045,12
+Fluorene,Boonsri,09-Sep-09,13-Dec-09,0.005,12
+gamma-Hexachlorocyclohexane,Boonsri,24-Jan-08,28-Nov-08,0.04,26
+gamma-Hexachlorocyclohexane,Boonsri,29-Jan-09,13-Dec-09,0.001,34
+gamma-Hexachlorocyclohexane,Boonsri,28-Jan-10,21-Oct-10,0.003,22
+gamma-Hexachlorocyclohexane,Boonsri,24-Jan-10,09-Dec-10,0.05,12
+gamma-Hexachlorocyclohexane,Boonsri,12-Apr-07,07-Jul-07,0.005,12
+gamma-Hexachlorocyclohexane,Boonsri,28-Apr-08,12-Dec-08,0.04,24
+gamma-Hexachlorocyclohexane,Boonsri,20-Mar-09,09-Jul-09,0.01,11
+gamma-Hexachlorocyclohexane,Boonsri,20-Feb-10,11-Dec-10,0.05,33
+gamma-Hexachlorocyclohexane,Boonsri,21-Jun-01,18-May-02,0.01,11
+gamma-Hexachlorocyclohexane,Boonsri,15-Jun-08,12-Dec-08,0.04,21
+gamma-Hexachlorocyclohexane,Boonsri,10-Jan-10,11-Dec-10,0.05,36
+gamma-Hexachlorocyclohexane,Boonsri,15-Mar-07,07-Jul-07,0.005,11
+gamma-Hexachlorocyclohexane,Boonsri,09-May-08,12-Dec-08,0.04,23
+gamma-Hexachlorocyclohexane,Boonsri,10-Jan-10,11-Dec-10,0.05,36
+gamma-Hexachlorocyclohexane,Boonsri,24-Jan-10,09-Dec-10,0.05,12
+Heptachlor,Boonsri,06-Apr-07,20-Dec-07,0.005,32
+Heptachlor,Boonsri,24-Jan-07,22-Dec-07,0.005,12
+Heptachlor,Boonsri,08-Oct-06,10-Dec-06,0.005,11
+Heptachlor,Boonsri,31-Mar-07,28-Dec-07,0.005,49
+Heptachlor,Boonsri,08-Feb-07,13-Dec-07,0.005,33
+Heptachlor,Boonsri,11-Jan-07,08-Dec-07,0.005,34
+Heptachlor,Boonsri,13-Dec-06,22-Dec-07,0.005,12
+Heptachloroepoxide,Boonsri,10-Aug-06,21-Dec-06,0.005,22
+Heptachloroepoxide,Boonsri,08-Feb-07,20-Dec-07,0.005,45
+Heptachloroepoxide,Boonsri,25-Jun-06,22-Dec-07,0.005,18
+Heptachloroepoxide,Boonsri,29-Sep-06,28-Dec-07,0.005,78
+Heptachloroepoxide,Boonsri,14-Sep-06,13-Dec-07,0.005,48
+Heptachloroepoxide,Boonsri,24-Feb-07,22-Dec-07,0.005,11
+Heptachloroepoxide,Boonsri,10-Aug-06,08-Dec-07,0.005,49
+Heptachloroepoxide,Boonsri,25-Jun-06,22-Dec-07,0.005,19
+Hexachlorobenzene,Boonsri,24-Jan-08,28-Nov-08,0.02,26
+Hexachlorobenzene,Boonsri,29-Jan-09,13-Dec-09,0.001,34
+Isodrin,Boonsri,24-Jan-08,28-Nov-08,0.025,26
+Isodrin,Boonsri,29-Jan-09,13-Dec-09,0.001,34
+Lead,Boonsri,05-Mar-16,02-Jul-16,1.973,15
+Lead,Boonsri,05-Aug-16,03-Dec-16,1.973,12
+Manganese,Boonsri,12-Apr-09,24-Jul-10,0.05,61
+Mercury,Boonsri,16-Jan-10,16-Apr-11,1.0,16
+Mercury,Boonsri,30-Nov-07,18-Jan-08,0.025,11
+Mercury,Boonsri,12-Apr-07,06-Sep-07,0.025,11
+Metolachlor,Boonsri,21-Jun-07,20-Dec-07,0.005,18
+Metolachlor,Boonsri,04-Aug-07,28-Dec-07,0.005,30
+Metolachlor,Boonsri,07-Jul-07,13-Dec-07,0.005,16
+Naphthalene,Boonsri,22-Aug-08,13-Dec-09,0.01,44
+Naphthalene,Boonsri,23-Feb-08,26-Nov-09,0.01,16
+Nickel,Boonsri,08-Jan-15,04-Jun-15,2.0,18
+Nickel,Boonsri,19-Aug-15,10-Dec-15,2.0,15
+Nickel,Boonsri,08-Jan-15,10-Dec-15,2.0,36
+"p,p-DDD",Boonsri,12-Apr-07,07-Jul-07,0.005,12
+"p,p-DDE",Boonsri,16-Feb-07,07-Jul-07,0.005,21
+"p,p-DDE",Boonsri,07-Oct-07,28-Dec-07,0.005,18
+"p,p-DDE",Boonsri,11-Jan-07,12-Apr-07,0.005,11
+"p,p-DDT",Boonsri,29-Jan-09,13-Dec-09,0.001,34
+"p,p-DDT",Boonsri,28-Jan-10,21-Oct-10,0.003,22
+"p,p-DDT",Boonsri,23-Mar-07,25-Apr-07,0.01,12
+"p,p-DDT",Boonsri,19-Jan-00,29-Apr-00,0.01,11
+PCB 101,Boonsri,22-Aug-08,13-Dec-09,0.001,43
+PCB 101,Boonsri,26-May-08,26-Nov-09,0.001,16
+PCB 138,Boonsri,24-Jan-08,27-Feb-09,0.002,28
+PCB 138,Boonsri,19-Mar-09,13-Dec-09,0.002,30
+PCB 138,Boonsri,23-Feb-08,26-Nov-09,0.002,18
+PCB 153,Boonsri,24-Jan-08,13-Dec-09,0.002,60
+PCB 153,Boonsri,23-Feb-08,26-Nov-09,0.002,18
+PCB 180,Boonsri,20-Jun-08,13-Dec-09,0.002,51
+PCB 180,Boonsri,28-Sep-08,26-Nov-09,0.002,12
+Pentachlorobenzene,Boonsri,24-Jan-08,13-Dec-09,0.001,60
+Pentachlorobenzene,Boonsri,23-Feb-08,26-Nov-09,0.001,16
+Petroleum hydrocarbons,Boonsri,29-Jan-09,24-Jul-10,0.1,53
+Petroleum hydrocarbons,Boonsri,18-Aug-10,21-Oct-10,0.3,12
+Petroleum hydrocarbons,Boonsri,17-Jan-10,13-Nov-10,0.34,15
+Petroleum hydrocarbons,Boonsri,18-Jan-14,10-Dec-14,0.2,12
+Petroleum hydrocarbons,Boonsri,10-Jan-10,09-Nov-10,0.34,15
+Petroleum hydrocarbons,Boonsri,30-Jan-05,19-Dec-08,0.01,15
+Petroleum hydrocarbons,Boonsri,20-Aug-09,15-Dec-10,0.05,17
+Petroleum hydrocarbons,Boonsri,10-Jan-10,10-Nov-10,0.34,15
+Phenanthrene,Boonsri,24-Jan-08,13-Dec-09,0.005,60
+Phenanthrene,Boonsri,23-Feb-08,26-Nov-09,0.005,16
+Potassium,Boonsri,18-Dec-03,26-Mar-04,3.0,16
+Potassium,Boonsri,11-Jan-07,24-May-07,3.0,25
+Potassium,Boonsri,21-Jun-07,23-Aug-07,1.0,12
+Potassium,Boonsri,10-Oct-08,12-Dec-08,3.0,16
+Potassium,Boonsri,11-Jan-09,12-Apr-09,3.0,18
+Potassium,Boonsri,18-Feb-10,19-May-10,2.0,11
+Potassium,Boonsri,21-Feb-13,16-Aug-13,3.0,20
+Potassium,Boonsri,21-Jul-16,10-Dec-16,2.0,16
+Pyrene,Boonsri,29-Jan-09,13-Dec-09,0.003,34
+Simazine,Boonsri,10-May-07,20-Dec-07,0.06,23
+Simazine,Boonsri,22-Feb-07,22-Dec-07,0.06,11
+Simazine,Boonsri,16-Feb-07,12-Apr-07,0.06,11
+Simazine,Boonsri,25-Apr-07,28-Dec-07,0.06,44
+Simazine,Boonsri,08-Feb-07,10-May-07,0.06,11
+Simazine,Boonsri,09-Jun-07,13-Dec-07,0.06,21
+Simazine,Boonsri,10-May-07,08-Dec-07,0.06,23
+Simazine,Boonsri,22-Feb-07,22-Dec-07,0.06,11
+Sulfides,Boonsri,06-Feb-08,12-Dec-08,0.1,59
+Sulfides,Boonsri,03-Feb-08,15-Dec-08,0.1,12
+Sulfides,Boonsri,18-Jan-08,21-Dec-08,0.1,69
+Sulfides,Boonsri,10-Jan-08,12-Dec-08,0.1,33
+Sulfides,Boonsri,12-Jan-08,12-Dec-08,0.1,36
+Sulfides,Boonsri,03-Feb-08,15-Dec-08,0.1,12
+Tetrachloromethane,Boonsri,21-Feb-08,11-Jan-09,0.25,29
+Tetrachloromethane,Boonsri,27-Feb-09,21-Aug-09,0.25,19
+Tetrachloromethane,Boonsri,23-Jun-10,18-Nov-10,0.025,17
+Tetrachloromethane,Boonsri,03-Feb-08,30-Oct-09,0.25,19
+Tetrachloromethane,Boonsri,24-Jan-10,09-Dec-10,0.025,12
+Tetrachloromethane,Boonsri,04-Jan-08,09-Jul-09,0.25,66
+Tetrachloromethane,Boonsri,17-Jan-10,13-Nov-10,0.025,32
+Tetrachloromethane,Boonsri,10-Jan-08,09-Sep-09,0.25,59
+Tetrachloromethane,Boonsri,10-Jan-10,09-Nov-10,0.025,33
+Tetrachloromethane,Boonsri,26-Jan-08,30-Jul-09,0.25,17
+Tetrachloromethane,Boonsri,28-Jan-10,15-Dec-10,0.025,11
+Tetrachloromethane,Boonsri,12-Jan-08,07-Sep-09,0.25,60
+Tetrachloromethane,Boonsri,10-Jan-10,10-Nov-10,0.025,33
+Tetrachloromethane,Boonsri,03-Feb-08,30-Oct-09,0.25,19
+Tetrachloromethane,Boonsri,24-Jan-10,09-Dec-10,0.025,12
+Total nitrogen,Boonsri,18-Jan-14,13-Dec-14,4.0,26
+Total phosphorus,Boonsri,22-May-11,24-Jun-11,0.038,12
+Zinc,Boonsri,15-Feb-13,22-Aug-15,5.0,14
+Zinc,Boonsri,11-Jan-14,11-Dec-14,37.5,23
+Zinc,Boonsri,22-Aug-14,11-Dec-14,37.5,18
+Zinc,Boonsri,23-Jan-10,25-Mar-12,25.0,13
