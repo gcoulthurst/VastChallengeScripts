@@ -149,7 +149,7 @@ for measure in range(len(data.measure_names)):
 summary_file.close()
     
 month_file = open("month_changes.csv", "w")
-month_file.write("Measure,Achara,Boonsri,Busarakhan,Chai,Decha,Kannika,Kohsoom,Sadka,Somchair,Tansanee")
+month_file.write("Measure,MonthChange,Achara,Boonsri,Busarakhan,Chai,Decha,Kannika,Kohsoom,Sadka,Somchair,Tansanee")
 for measure in range(len(data.measure_names)):
     month_file.write("\n{q}{m}{q},{mo},{a},{b},{bu},{c},{d},{k},{ko},{s},{so},{t}".format(
             q=("\"" if "," in data.measure_names[measure] else ""), m=data.measure_names[measure], 
